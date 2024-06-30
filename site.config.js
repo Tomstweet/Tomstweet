@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Tom's Tweet",
+    name: "Tom",
     image: "/avatar.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
     bio: "Hello, I am Tom. Welcome to the page where Tom shares his thoughts and humor",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Tom's Tweet",
-    description: "welcome to Tom's Tweet!",
+    title: "Tom",
+    description: "welcome to Tom's Page!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
